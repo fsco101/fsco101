@@ -17,6 +17,8 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css,react,nodejs,laravel,mysql,mongodb,wordpress,figma,blender,git,github,vscode,visualstudio&theme=dark" />
 </div>
 
+<br/>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -42,18 +44,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsco101&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsco101&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fsco101&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fsco101&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 

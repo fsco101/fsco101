@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Ramon%20Francisco%20Jr.&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=BSIT-Student%20%7C%20Lifelong%20Learner&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Ramon%20Francisco&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Lifelong%20Learner&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+never+stopping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+never+stopping+%F0%9F%9A%80;Code+%2B+Design+%3D+My+happy+place+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -42,32 +42,7 @@
 
 <div align="center">
 
-**Languages & Markup**
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css&theme=dark" />
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel&theme=dark" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-**CMS & Platforms**
-
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-
-<img src="https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
-<img src="https://img.shields.io/badge/Joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"/>
-
-**Design & 3D**
-
-<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
-
-**Tools & Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css,react,nodejs,laravel,mysql,mongodb,wordpress,figma,blender,git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 

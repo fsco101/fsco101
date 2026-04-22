@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Ramon%20Francisco%20Jr.&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=BSIT Student%20%7C%20Lifelong%20Learner&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0f3460&height=200&section=header&text=Ramon%20Francisco&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=BSIT-Student%20%7C%20Lifelong%20Learner&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+never+stopping+%F0%9F%9A%80;Code+%2B+Design+%3D+My+happy+place+%E2%9C%A8" alt="Typing SVG" />
@@ -9,60 +9,63 @@
 <br/>
 
 <!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=fsco101&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=r-frcsco&style=for-the-badge&color=0f3460&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-⚡ GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsco101&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsco101&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=r-frcsco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-frcsco&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fsco101&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=r-frcsco&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fsco101&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r-frcsco&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-🛠️ Tech Stack — Still Learning, Always Growing
+## 🛠️ Tech Stack — Still Learning, Always Growing
 
 <div align="center">
 
-Languages & Markup
+**Languages & Markup**
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css&theme=dark" />
 
-Frameworks & Libraries
+**Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,laravel&theme=dark" />
 
-Databases
+**Databases**
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-CMS & Platforms
+**CMS & Platforms**
 
-<img src="https://skillicons.dev/icons?i=wordpress,drupal,joomla&theme=dark" />
+<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
 
-Design & 3D
+<img src="https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
+<img src="https://img.shields.io/badge/Joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla"/>
+
+**Design & 3D**
 
 <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" />
 
-Tools & Workflow
+**Tools & Workflow**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
 
@@ -70,7 +73,7 @@ Tools & Workflow
 
 ---
 
- 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
 

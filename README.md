@@ -9,17 +9,13 @@
 </div>
 
 <br/>
----
 
 ## 🛠️ Tech Stack — Still Learning, Always Growing
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css,react,nodejs,laravel,mysql,mongodb,wordpress,figma,blender,git,github,vscode,visualstudio&theme=dark" />
-
 </div>
-
----
 
 ## 🌐 Connect with Me
 
@@ -36,7 +32,6 @@
 <a href="mailto:ramonfrancisco1368@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
 </a>
-
 </div>
 
 <br/>
@@ -63,6 +58,5 @@
 </div>
 
 <br/>
-
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>

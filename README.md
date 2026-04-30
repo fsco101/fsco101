@@ -10,6 +10,23 @@
 
 <br/>
 
+<div>
+  ## 🎓 Education & relevant coursework
+**Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
+Key subjects and hands-on topics I’ve covered:
+- Data Structures & Algorithms (implementation and problem solving)  
+- Database Systems: MySQL (XAMPP), normalization, relationships, advanced SQL queries  
+- Web fundamentals: HTML, CSS, JavaScript (frontend basics)  
+- Backend development: Node.js, PHP, Laravel (MVC, Eloquent, migrations)  
+- Systems & Embedded: Logic & Digital Circuit Design, Computer Organization & Assembly, Arduino C, ESP32 projects  
+- Data Communication & Networking: cabling, RJ45, network concepts (hands-on)  
+- Operating Systems: VM setup and installation (VirtualBox / Oracle VM)  
+- Information Assurance & Security fundamentals; Software Engineering principles  
+- Content Management Systems: WordPress, Joomla, Drupal
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack — Still Learning, Always Growing
 
 <div align="center">

@@ -10,9 +10,10 @@
 
 <br/>
 
+ ## 🎓 Education & relevant coursework
+ 
 <div align="center">
   
-  ## 🎓 Education & relevant coursework
 **Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
 Key subjects and hands-on topics I’ve covered:
 - Data Structures & Algorithms (implementation and problem solving)  

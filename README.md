@@ -12,7 +12,7 @@
 
  ## 🎓 Education & relevant coursework
  
-<div align="center">
+<div align="">
   
 **Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
 Key subjects and hands-on topics I’ve covered:

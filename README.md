@@ -10,7 +10,8 @@
 
 <br/>
 
-<div>
+<div align="center">
+  
   ## 🎓 Education & relevant coursework
 **Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
 Key subjects and hands-on topics I’ve covered:
@@ -23,6 +24,7 @@ Key subjects and hands-on topics I’ve covered:
 - Operating Systems: VM setup and installation (VirtualBox / Oracle VM)  
 - Information Assurance & Security fundamentals; Software Engineering principles  
 - Content Management Systems: WordPress, Joomla, Drupal
+  
 </div>
 
 <br/>

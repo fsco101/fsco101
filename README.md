@@ -57,14 +57,5 @@ Key subjects and hands-on topics I’ve covered:
 </div>
 
 <br/>
-
-## ⚡ GitHub Stats
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsco101&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
-</div>
-
-<br/>
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>

@@ -10,9 +10,9 @@
 
 <br/>
 
- ## 🎓 Education & relevant coursework
+## 🎓 Education & relevant coursework
  
-<div align="">
+<div>
   
 **Bachelor of Science in Information Technology (BSIT)** — Technological University of the Philippines - Taguig  
 Key subjects and hands-on topics I’ve covered:
@@ -34,7 +34,22 @@ Key subjects and hands-on topics I’ve covered:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css,react,nodejs,laravel,mysql,mongodb,wordpress,figma,blender,git,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,javascript,php,html,css,react,nodejs,laravel,mysql,mongodb,wordpress,figma,blender,git,github,vscode,visualstudio&theme=dark" alt="Tech Stack Icons" />
+
+</div>
+
+<br/>
+
+## ⛓️ Blockchain & Web3 Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Stellar-%2308B5E5.svg?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar" />
+&nbsp;
+<img src="https://img.shields.io/badge/Soroban-%23141414.svg?style=for-the-badge&logo=stellar&logoColor=08B5E5" alt="Soroban" />
+&nbsp;
+<img src="https://img.shields.io/badge/Polygon-%238247E5.svg?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
+
 </div>
 
 <br/>
@@ -43,6 +58,10 @@ Key subjects and hands-on topics I’ve covered:
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/ramon-francisco-5692b0424/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
 <a href="https://www.instagram.com/r_frcsco/?hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -54,8 +73,10 @@ Key subjects and hands-on topics I’ve covered:
 <a href="mailto:ramonfrancisco1368@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
 </a>
+
 </div>
 
 <br/>
+
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1f2e,100:0d1117&height=100&section=footer" width="100%"/>
